@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Charles",
+    "surname": "Lecrerc",
+    "city": "Monaco",
+    "age": 22,
+    "team": "Ferrari",
+    "previous-team": ["Alfa Romeo"]
+  },
+  {
+    "name": "Max",
+    "surname": "Verstappen",
+    "city": "Nederland",
+    "age": 23,
+    "team": "RedBull",
+    "previous-team": ["Toro Rosso"]
+  },
+  {
+    "name": "Lewis",
+    "surname": "Hamilton",
+    "city": "London",
+    "age": 37,
+    "team": "Mercedes",
+    "previous-team": ["Mclaren"]
+  },
+  {
+    "name": "Daniel",
+    "surname": "Ricciardo",
+    "city": "ficarra",
+    "age": 33,
+    "team": "RedBull",
+    "previous-team": ["HRT", "Toro Rosso", "Redbull", "Renault", "Mclaren"]
+  }
+]

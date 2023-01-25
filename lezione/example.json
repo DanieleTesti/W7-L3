@@ -1,0 +1,19 @@
+{
+  "name": "Daniele",
+  "surname": "Testi",
+  "age": 20,
+  "area": {
+    "region": "Lz",
+    "zip-code": 5555
+  },
+  "skills": [
+    {
+      "name": "JS",
+      "rating": 6
+    },
+    {
+      "name": "CSS",
+      "rating": 9
+    }
+  ]
+}

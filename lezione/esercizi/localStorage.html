@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Agenda</title>
+    <link rel="stylesheet" href="./localStorage.css" />
+  </head>
+  <body>
+    <form>
+      <h1>Agenda</h1>
+      <textarea id="text" rows="10" autofocus></textarea>
+      <div>
+        <button type="button" id="load-button" onclick="load()">CARICA</button>
+        <button type="button" id="reset-button" onclick="reset()">
+          SVUOTA FORM
+        </button>
+        <button type="button" id="save-button" onclick="save()">SALVA</button>
+      </div>
+    </form>
+    <script src="./localStorage.js"></script>
+  </body>
+</html>
