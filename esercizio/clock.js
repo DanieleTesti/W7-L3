@@ -7,10 +7,10 @@ console.log(space);
 let y = parseInt(sessionStorage.getItem("time")) || 0;
 
 function addTimer() {
-  let x = setInterval(() => {
+  setInterval(() => {
     space.innerHTML = y++;
     sessionStorage.setItem("time", y);
   }, 1000);
 }
 
-window.onload = addTimer;
+// window.onload = addTimer;
